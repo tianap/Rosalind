@@ -1,6 +1,6 @@
 '''
 Rosalind: Bioinformatics Stronghold
-ID: GC
+ID: IPRB
 Title: Mendel's First Law
 
 Given: Three positive integers k, m, and n, representing a population containing k+m+n organisms: 
